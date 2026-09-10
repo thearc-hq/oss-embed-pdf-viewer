@@ -51,7 +51,7 @@
     "@cloudpdf/server": "workspace:*",
     "rimraf": "^5.0.0",
     "typescript": "^5.0.0",
-    "vitest": "^2.1.0",
+    "vitest": "^4.1.11",
     "@embedpdf/tooling-build": "workspace:*"
   },
   "publishConfig": {
