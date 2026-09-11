@@ -39,7 +39,7 @@
   "devDependencies": {
     "@angular/common": "~20.2.0",
     "@angular/compiler": "~20.2.0",
-    "@angular/core": "~20.2.0",
+    "@angular/core": "~20.3.28",
     "@angular/platform-browser": "~20.2.0",
     "@embedpdf/angular": "workspace:*",
     "@sveltejs/vite-plugin-svelte": "^6.0.0",
