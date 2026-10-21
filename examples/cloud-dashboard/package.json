@@ -32,6 +32,6 @@
     "tailwindcss": "^4.1.18",
     "tsx": "^4.19.0",
     "typescript": "latest",
-    "vite": "^6.3.5"
+    "vite": "^6.4.4"
   }
 }
